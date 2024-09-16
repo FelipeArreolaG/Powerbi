@@ -12,7 +12,7 @@ Asi mismo añadi botones para facilitar la navegacion entre las paginas, tambien
 
 ## Pagina "Clients"
 
-![cp2](https://github.com/user-attachments/assets/bab443c5-f702-4bea-9368-44e46d416379)
+![cp2](https://github.com/user-attachments/assets/2567a9df-cba4-4e32-bbf9-6b9d187461d5)
 
 En la pagina de clientes cree una tabla (Client Information); una tabla detallada que muestra los datos de clientes. 
 Contiene columnas como; customer name, country/region, city, postal code, product name, quantity, sales, profit. Que nos proporcionan los datos principales de los clientes.
