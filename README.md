@@ -2,7 +2,7 @@
 
 ## Pagina "General"
 
-![cp1](https://github.com/user-attachments/assets/52cd90e4-8c30-4361-a9a7-6c09b3c17cfb)
+![cp1 (2)](https://github.com/user-attachments/assets/94c9663d-5d35-492a-8b0e-17407e9ac201)
 
 En la pagina de informe general pude incluir cuatro tarjetas (Total Sales, Total Orders, Profits y Quantity) donde se pueden mirar datos de relevancia en las ventas de la compañia.
 Adicionalmente añadi un grafico de barras apiladas (Product Sales); es un grafico que compara las ventas y los beneficios de los diferentes productos, las barras estan apiladas para mostrar tanto la suma de ventas como las ganancias.
