@@ -16,5 +16,5 @@ Asi mismo añadi botones para facilitar la navegacion entre las paginas, tambien
 
 En la pagina de clientes cree una tabla (Client Information); una tabla detallada que muestra los datos de clientes. 
 Contiene columnas como; customer name, country/region, city, postal code, product name, quantity, sales, profit. Que nos proporcionan los datos principales de los clientes.
-Adicionalmente contiene una fila de toalizadores en la parte infeior para mostrar resumenes generales de los datos de los clientes.
+Adicionalmente contiene una fila de totalizadores en la parte inferior para mostrar resumenes generales de los datos de los clientes.
 Tambien cuenta con los botones de navegacion para navegar a otra pagina en caso de requerirlo.
