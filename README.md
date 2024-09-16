@@ -7,7 +7,7 @@
 En la pagina de informe general llamada "SALES" pude incluir cuatro tarjetas (Total Sales, Total Orders, Profits y Quantity) donde se pueden mirar datos de relevancia en las ventas de la compañia.
 Adicionalmente añadi un grafico de barras apiladas (Product Sales); es un grafico que compara las ventas y los beneficios de los diferentes productos, las barras estan apiladas para mostrar tanto la suma de ventas como las ganancias.
 El mapa es la parte mas grande para que pueda ser visto en un panorama amplio sin dificultades, en el se muestra la distribucion geografica de las ventas con puntos en las ciuades/paises.
-Tambien se encuentran tres segmentaciones de datos o filtros (State, City, Product) verticales y uno horizontal (Category).
+Tambien se encuentran cuatro segmentaciones de datos o filtros (State, City, Product y Client) verticales y uno horizontal (Category).
 Asi mismo añadi botones para facilitar la navegacion entre las paginas, tambien recopile iconos para darle vida a la pagina, adicionalmente el icono de "linkedin" esta operativo para navegar.
 
 ## Pagina "Clients"
