@@ -4,7 +4,7 @@
 
 ![cp1 (2)](https://github.com/user-attachments/assets/94c9663d-5d35-492a-8b0e-17407e9ac201)
 
-En la pagina de informe general pude incluir cuatro tarjetas (Total Sales, Total Orders, Profits y Quantity) donde se pueden mirar datos de relevancia en las ventas de la compañia.
+En la pagina de informe general llamada "SALES" pude incluir cuatro tarjetas (Total Sales, Total Orders, Profits y Quantity) donde se pueden mirar datos de relevancia en las ventas de la compañia.
 Adicionalmente añadi un grafico de barras apiladas (Product Sales); es un grafico que compara las ventas y los beneficios de los diferentes productos, las barras estan apiladas para mostrar tanto la suma de ventas como las ganancias.
 El mapa es la parte mas grande para que pueda ser visto en un panorama amplio sin dificultades, en el se muestra la distribucion geografica de las ventas con puntos en las ciuades/paises.
 Tambien se encuentran tres segmentaciones de datos o filtros (State, City, Product) verticales y uno horizontal (Category).
